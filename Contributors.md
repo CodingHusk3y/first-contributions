@@ -101,6 +101,7 @@ harshal honde
 - [Surav Shrestha](https://github.com/suravshrestha)
 - [Fares Yusuf](https://github.com/Fares-Yusuf)
 - shankar
+- [Harry Cao](https://github.com/CodingHusk3y)
 - [Nahueaprendizajeml](https://github.com/Nahueaprendizajeml)
 - [Harshayu Gupte](https://github.com/Harshayu)
 - [Bala Sundeep Krishna Dasari](https://github.com/dsundeep)
